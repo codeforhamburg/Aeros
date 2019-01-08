@@ -1,10 +1,11 @@
 <h1>Lebensqualität am Wohnort Hamburg-Barmbek</h1>
-<p>Auf dieser Seite werden ihnen informationen zu der Verkehrsdichte und der Lufschadstoffe in Barmbek gegeben. 
+<p>Auf dieser Seite werden Ihnen informationen zu der Verkehrsdichte und den Lufschadstoffen in Barmbek gegeben. 
 Grundlage dieser Daten sind die Luftmessstation in der Habichtstraße und die Daten vom Amt für Verkehr und Straßenwesen.</p>
 
 <h2>Verkehrsdichte Barmbek</h2>
-folgt...
-
+<p>Die Datei map_final_barmbek_verkehrsdichte.geojson auf geojson.io öffnen. Details durch Klick auf die Markierungen.</p>
+<p> Legende: DTV - Durchschnittliche tägliche Verkehrsstärken; DTVw - Durchschnittliche werktägliche Verkehrsstärken;  
+SV-Anteil am DTVw - Schwerverkehrsanteil am DTVw</p>
 
 <h2>Warum ausgrechnet Barmbek?</h2>
 <p>Die Lufmessstation in Barmbek gehört zu den 4 Verkehrsbezogenen Messstationen. Nach dem Luftqualitätsindex, der Schulnoten vergibt, ist Barmbek als schlechtester Vertreter mit lediglich "ausreichend" ausgezeichnet. Um diese schlechte mit genaueren Informationen zu belegen haben wir die Daten für Laien verständlich aufbereitet.</p>
